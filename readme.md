@@ -1,8 +1,3 @@
-Of course! This is a fantastic project that combines a web framework, a machine learning model, and a modern tool like KaggleHub. A good `README.md` is essential to explain how it all works together.
-
-Here is a comprehensive `README.md` file tailored specifically for your FastAPI application. It includes a description, tech stack, a guide on how to set it up (including the crucial `requirements.txt` and `templates/index.html` parts), and instructions on how to use it.
-
----
 
 # Brain Tumor Classification Web App
 
