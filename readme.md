@@ -113,7 +113,7 @@ The server will start, and the application will be available at **[http://127.0.
 
 ---
 
-## kullanımı How to Use
+## How to Use:
 
 1. Open your web browser and navigate to `http://127.0.0.1:8000`.
 2. Click on the "Choose File" button and select an MRI brain scan image.
