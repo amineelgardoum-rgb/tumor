@@ -9,9 +9,7 @@ The application leverages a pre-trained deep learning model from **KaggleHub**, 
 
 ## 🖼️ Project Showcase
 
-*(This is where you would add a screenshot of your running application)*
-
-![Screenshot of the Web Application](./screenshot.png)
+![Screenshot of the Web Application](./screenshot.png "screenshot for the project")
 
 ---
 
@@ -68,8 +66,8 @@ Follow these steps to set up and run the project on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/amineelgardoum-rgb/tumor.git
+   cd tumor
    ```
 2. **Create a virtual environment (recommended):**
 
