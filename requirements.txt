@@ -1,0 +1,7 @@
+kagglehub
+fastapi
+uvicorn
+numpy 
+keras
+tensorflow
+shutil
